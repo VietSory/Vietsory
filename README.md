@@ -2,7 +2,7 @@
 ### 👨‍💻 Cybersecurity Enthusiast | Software developer
 
 - 🌍  I'm based in **Vietnam**
-- 🧠  I'm currently learning **Pentester testing**
+- 🧠  I'm currently learning **Penetration testing**
 - 🤝  I'm open to collaborating on **Open Source Security Tools**
 - ✉️  Contact me at: **vietpno3@gmail.com**
 
