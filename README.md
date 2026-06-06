@@ -1,9 +1,10 @@
 # Hi 👾, I'm Lê Hoàng Việt
 ### 👨‍💻 Devops Engineer | Software Developer
 
-- 🌍  I'm a Cloud/DevOps and Backend learner based in **Vietnam**
-- 🧠  Currently, I'm building hands-on projects with **AWS**
+- 🌍  Based in Vietnam  
+- 🧠 Currently building hands-on labs with **AWS**, Terraform, Docker, Kubernetes, RDS, VPC, and IAM  
 - 🤝  I enjoy turning infrastructure concepts into working **labs** and **Open Source Tools**
+- 🔐 Interested in **cloud security**, **infrastructure automation**, and **backend systems**  
 - ✉️  Contact me at: **vietpno3@gmail.com**
 
 ---
