@@ -1,9 +1,9 @@
 # Hi 👾, I'm Lê Hoàng Việt
-### 👨‍💻 Cybersecurity Enthusiast | Software developer
+### 👨‍💻 Devops Engineer | Software Developer
 
-- 🌍  I'm based in **Vietnam**
-- 🧠  I'm currently learning **Penetration testing**
-- 🤝  I'm open to collaborating on **Open Source Security Tools**
+- 🌍  I'm a Cloud/DevOps and Backend learner based in **Vietnam**
+- 🧠  Currently, I'm building hands-on projects with **AWS**
+- 🤝  I enjoy turning infrastructure concepts into working **labs** and **Open Source Tools**
 - ✉️  Contact me at: **vietpno3@gmail.com**
 
 ---
